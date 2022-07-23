@@ -1,0 +1,31 @@
+@font-face{
+    font-family:myFont;
+    src:url('../font.ttf');
+}
+
+@media screen and (orientation: portrait) {
+    body{
+        font-family: myFont;
+        background:#ffffff url('../wbep/mbg.jpg') no-repeat fixed center;
+        background-size:cover;
+    }
+} 
+@media screen and (orientation: landscape) {
+    body{
+        font-family: myFont;
+        background:#ffffff url('../wbep/bg.webp') no-repeat fixed center;
+        background-size:cover;
+    }
+}
+.bg-opacity-85{--bs-bg-opacity: .85;}
+.card{
+    min-width: 15rem; 
+    height: 4rem;
+    background: rgba(255, 255, 255, 0.85)
+}
+.nav-link{
+    font-size: 2rem;
+     color:black;
+}
+i{color: hsla(0, 0%, 0%, 0.5)}
+.navnav{color:aliceblue}

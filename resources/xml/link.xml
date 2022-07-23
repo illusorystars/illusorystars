@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+    <FRAME><![CDATA[
+        <div class="row row-cols-auto me-sm-5">
+            $MAIN </div>
+    ]]></FRAME>
+    <CELL><![CDATA[
+        <div class="col card flex-row flex-grow-1 bg-opacity-90 p-0 m-3">
+            <img src="$ICON"  class="h-100">
+            <div class="card-body p-1">
+                <h5 class="card-title border-bottom">$TITLE
+                    <a class="card-link float-end" target="_blank" href="$LINK">
+                        <i class="bi bi-box-arrow-up-right card-link"></i>
+                    </a>
+                </h5>
+                <p class="card-text pt-0"><small>$MORE</small></p>
+            </div>
+        </div>
+    ]]></CELL>
+
+    <LINE>
+        <TITLE>Pixivic</TITLE>
+        <LINK>https://m.pixivic.com/</LINK>
+        <ICON>./resources/icon/pixivic.png</ICON>
+        <MORE>国内P站画师作品分享及学习交流网站</MORE>
+    </LINE>
+    <LINE>
+        <TITLE>w3school在线教程</TITLE>
+        <LINK>http://www.w3school.com.cn</LINK>
+        <ICON>./resources/icon/w3school.png</ICON>
+        <MORE>在 W3School,你可以找到所有的网站建设教程</MORE>
+    </LINE>
+    <LINE>
+        <TITLE>硕鼠</TITLE>
+        <LINK>https://www.flvcd.com/</LINK>
+        <ICON>./resources/icon/flvcd.gif</ICON>
+        <MORE>最稳定的在线视频下载平台</MORE>
+    </LINE>
+    <LINE>
+        <TITLE>Bootstrap</TITLE>
+        <LINK>https://v5.bootcss.com/</LINK>
+        <ICON>./resources/icon/Bootstrap.png</ICON>
+        <MORE>全球最流行的前端开源工具包</MORE>
+    </LINE>
+    <LINE>
+        <TITLE>打驴动漫</TITLE>
+        <LINK>https://www.dqsj.cc/</LINK>
+        <ICON>./resources/icon/dalv.png</ICON>
+        <MORE>懂的都懂...</MORE>
+    </LINE>    
+</MAIN>
