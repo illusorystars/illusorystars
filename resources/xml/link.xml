@@ -47,5 +47,13 @@
         <LINK>https://www.dqsj.cc/</LINK>
         <ICON>./resources/icon/dalv.png</ICON>
         <MORE>懂的都懂...</MORE>
-    </LINE>    
+    </LINE> 
+    <LINE>
+        <TITLE>奶酪小书签</TITLE>
+        <LINK>https://www.runningcheese.com/bookmarklets</LINK>
+        <ICON>./resources/icon/rc.png</ICON>
+        <MORE>各种骚操作，中文网最全小书签</MORE>
+    </LINE>
+       
+    
 </MAIN>

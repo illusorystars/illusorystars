@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+    <FRAME><![CDATA[
+        <div class="row row-cols-auto me-sm-5">
+            $MAIN </div>
+    ]]></FRAME>
+    <CELL><![CDATA[
+        <div class="col card flex-row flex-grow-1 bg-opacity-90 p-0 m-3">
+            <img src="$ICON"  class="h-100">
+            <div class="card-body p-1">
+                <h5 class="card-title border-bottom">$TITLE
+                    <a class="card-link float-end" target="_blank" href="$LINK">
+                        <i class="bi bi-box-arrow-up-right card-link"></i>
+                    </a>
+                </h5>
+                <p class="card-text pt-0"><small>$MORE</small></p>
+            </div>
+        </div>
+    ]]></CELL>
+
+</MAIN>

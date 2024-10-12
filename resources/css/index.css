@@ -17,15 +17,10 @@
         background-size:cover;
     }
 }
-.bg-opacity-85{--bs-bg-opacity: .85;}
+
+.bg-opacity-o{--bs-bg-opacity: 0.85;}
 .card{
     min-width: 15rem; 
     height: 4rem;
     background: rgba(255, 255, 255, 0.85)
 }
-.nav-link{
-    font-size: 2rem;
-     color:black;
-}
-i{color: hsla(0, 0%, 0%, 0.5)}
-.navnav{color:aliceblue}
